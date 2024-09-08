@@ -35,8 +35,7 @@ canvas {
     margin-bottom: 20px;
 }
 
-.button__tool,
-.button__size {
+.button__tool, .button__size {
     height: 45px;
     border: none;
     border-radius: 5px;
@@ -51,8 +50,7 @@ canvas {
     font-size: 1.8rem;
 }
 
-.button__tool:hover,
-.button__size:hover {
+.button__tool:hover, .button__size:hover {
     background-color: #f2f2f2;
 }
 
